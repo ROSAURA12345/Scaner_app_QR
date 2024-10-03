@@ -1,0 +1,1 @@
+# Scaner_app_QR
